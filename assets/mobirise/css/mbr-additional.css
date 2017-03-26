@@ -484,24 +484,25 @@ h6,
   background-color: #ffffff;
 }
 #header1-1 .mbr-section-title {
-  color: #ffffff;
+  color: #c0a375;
 }
 #header1-1 .mbr-section-lead {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Ubuntu', sans-serif;
   text-align: left;
+  font-size: 20px;
 }
 #header1-1 .mbr-section-lead SPAN {
   text-align: left;
 }
-#social-buttons4-4 .mbr-section-title,
-#social-buttons4-4 .btn-social {
-  color: #fff;
+#features2-2 .striped .mbr-cards-col:nth-child(2n+1) {
+  background-color: #28324e;
 }
 #msg-box6-1 .mbr-section-title,
 #msg-box6-1 .lead p {
   color: #fff;
 }
-#features2-2 .striped .mbr-cards-col:nth-child(2n+1) {
-  background-color: #28324e;
+#social-buttons4-4 .mbr-section-title,
+#social-buttons4-4 .btn-social {
+  color: #fff;
 }
