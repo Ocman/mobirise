@@ -1,14 +1,14 @@
 {
   "settings": {
     "name": "NewSite-03-29_1811",
-    "currentPage": "логистика.html",
+    "currentPage": "Контакты.html",
     "theme": {
       "name": "default",
       "title": "Mobirise",
       "styling": {}
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 15,
+    "uniqCompNum": 22,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -69,7 +69,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ДИСТРИБЬЮТОР</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"логистика.html#msg-box4-e\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"О компании.html\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -332,7 +332,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ДИСТРИБЬЮТОР</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"логистика.html#msg-box4-e\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"О компании.html\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -373,7 +373,7 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
@@ -401,99 +401,8 @@
           "headerAlign": "left",
           "title": "РАБОТА С ПЕРСОНАЛОМ",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Одной, и, безусловно, самой главной ценностью нашей Компании являются наши сотрудники. Именно они являются основой нашего бизнеса. Только постоянный рост эффективности работы персонала обеспечивает развитие и процветание нашей Компании.В Компании созданы и действуют четкие стандарты работы с персоналом. Они включают в себя следующие направления: подбор, адаптация, оценка персонала и формирование кадрового резерва, а также мотивация сотрудников.</p><p>Подбор персонала осуществляется на основе специально разработанных для нашей Компании компетенций и стандартов эффективного поведения, а также оценки профессиональных знаний кандидатов. Благодаря этому в Компанию попадают именно те сотрудники, которые действительно будут эффективны в должности, которые смогут оптимально адаптироваться в нашей организационной культуре и при этом развиваться профессионально.В Компании большое внимание уделяется адаптации новых сотрудников. Для них разработана процедура ввода в должность и знакомства с компанией. Для сотрудников, которые приняты или переведены на ключевые руководящие должности, разработана и применяется система наставничества, что позволяет наиболее эффективно обучить сотрудников в новой должности и обеспечить преемственность в управлении.<br></p><p><br></p><p>Эффективность работы наших сотрудников определяется с помощью ежемесячной оценки персонала по ключевым показателям эффективности. Т.е. в основе системы мотивации каждого сотрудника лежат показатели эффективности, разработанные специально для каждой должности. Таким образом, уровень заработной платы каждого сотрудника зависит от его результативности.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_inherit": "msg-box3",
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "left",
-              "color": "#fff"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center",
-              "color": "#fff"
-            },
-            ".mbr-article": {
-              "color": "#fff"
-            },
-            ".mbr-article P": {
-              "text-align": "left"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content5",
-          "_anchor": "content5-4",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": "3",
-            "paddingBottom": "4",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#4c6972",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": "0.4",
-            "overlayColor": "#28324e",
-            "showMeta": false,
-            "darkBackground": true
-          },
-          "title": "РАБОТА С ПЕРСОНАЛОМ",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<blockquote><p>Одной, и, безусловно, самой главной ценностью нашей Компании являются наши сотрудники. Именно они являются основой нашего бизнеса. Только постоянный рост эффективности работы персонала обеспечивает развитие и процветание нашей Компании.В Компании созданы и действуют четкие стандарты работы с персоналом. Они включают в себя следующие направления: подбор, адаптация, оценка персонала и формирование кадрового резерва, а также мотивация сотрудников.</p><p>Подбор персонала осуществляется на основе специально разработанных для нашей Компании компетенций и стандартов эффективного поведения, а также оценки профессиональных знаний кандидатов. Благодаря этому в Компанию попадают именно те сотрудники, которые действительно будут эффективны в должности, которые смогут оптимально адаптироваться в нашей организационной культуре и при этом развиваться профессионально.В Компании большое внимание уделяется адаптации новых сотрудников. Для них разработана процедура ввода в должность и знакомства с компанией. Для сотрудников, которые приняты или переведены на ключевые руководящие должности, разработана и применяется система наставничества, что позволяет наиболее эффективно обучить сотрудников в новой должности и обеспечить преемственность в управлении.</p><p>Эффективность работы наших сотрудников определяется с помощью ежемесячной оценки персонала по ключевым показателям эффективности. Т.е. в основе системы мотивации каждого сотрудника лежат показатели эффективности, разработанные специально для каждой должности. Таким образом, уровень заработной платы каждого сотрудника зависит от его результативности.</p></blockquote>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
-        },
-        {
-          "_styles": {
-            ".mbr-header .mbr-header__text": {
-              "text-align": "center"
-            },
-            ".mbr-header .mbr-header__subtext": {
-              "text-align": "center"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "msg-box3",
-          "_anchor": "msg-box3-5",
-          "_params": {
-            "showCaption": "noCaption",
-            "paddingTop": 3,
-            "paddingBottom": 3,
-            "showTitle": true,
-            "showText": true,
-            "showButton": true,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "images/bg3.jpg",
-            "bgColor": "#fff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#222",
-            "showMeta": false,
-            "darkBackground": false
-          },
-          "title": "MODERN STYLES",
-          "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+          "text": "<p>Одной, и, безусловно, самой главной ценностью нашей Компании являются наши сотрудники. Именно они являются основой нашего бизнеса. Только постоянный рост эффективности работы персонала обеспечивает развитие и процветание нашей Компании.В Компании созданы и действуют четкие стандарты работы с персоналом. Они включают в себя следующие направления: подбор, адаптация, оценка персонала и формирование кадрового резерва, а также мотивация сотрудников.</p><p>Подбор персонала осуществляется на основе специально разработанных для нашей Компании компетенций и стандартов эффективного поведения, а также оценки профессиональных знаний кандидатов. Благодаря этому в Компанию попадают именно те сотрудники, которые действительно будут эффективны в должности, которые смогут оптимально адаптироваться в нашей организационной культуре и при этом развиваться профессионально.В Компании большое внимание уделяется адаптации новых сотрудников. Для них разработана процедура ввода в должность и знакомства с компанией. Для сотрудников, которые приняты или переведены на ключевые руководящие должности, разработана и применяется система наставничества, что позволяет наиболее эффективно обучить сотрудников в новой должности и обеспечить преемственность в управлении.<br></p><p>Эффективность работы наших сотрудников определяется с помощью ежемесячной оценки персонала по ключевым показателям эффективности. Т.е. в основе системы мотивации каждого сотрудника лежат показатели эффективности, разработанные специально для каждой должности. Таким образом, уровень заработной платы каждого сотрудника зависит от его результативности.<br></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>"
         }
       ]
     },
@@ -550,7 +459,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ДИСТРИБЬЮТОР</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"логистика.html#msg-box4-e\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"О компании.html\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -677,7 +586,7 @@
             }
           },
           "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ДИСТРИБЬЮТОР</a>",
-          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"логистика.html#msg-box4-e\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"О компании.html\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
           "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
         },
         {
@@ -722,14 +631,18 @@
             "showTitle": true,
             "showMeta": false,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
               "active": true,
               "class": "mbr-figure__img",
               "width": 1400,
-              "src": "images/iphone.png"
+              "src": "@PROJECT_PATH@/assets/images/mbr-1400x1010.jpg",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
             },
             "video": {
               "src": "http://www.youtube.com/embed/sOSTC6FM6Bw",
@@ -746,8 +659,330 @@
           "headerAlign": "left",
           "title": "ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ",
           "meta": "By John Smith posted July 30, 2015",
-          "text": "<p>В нынешнее время все компании – от малого до крупного размера нуждаются в информационных технологиях для того, чтобы выдерживать конкуренцию в условиях повсеместного использования высокотехнологичных решений.</p><p>Использование информационных технологий в дистрибуции значительно сокращает и ускоряет путь перемещения товара от производителя к потребителю. При этом большое значение в минимизации движения товара имеет быстрая передача информации как внутри предприятия, так и во внешней среде. Зарубежный опыт показывает, что те фирмы, которые делают ставку на использование функционирующих на рынке стандартов EDI, имеют шансы эффективного функционирования в будущем.</p><p>Компания Grand Distribution идет нога в ногу с информационно техническим прогрессом и одной из первых на рынке внедряет самые передовые ИТ технологии. Мы вкладываем значительные средства в развитие корпоративного ИТ отдела, чтобы облегчить работу наших сотрудников, ускорить и упростить сбор заявок агентами, повысить качество отбора товара на складе и увеличить скорость доставки товара.</p><p>Grand Distribution ценит важность и ценность информации в наше время. Чтобы не разочаровать производителей и партнеров с которыми мы работаем было принято решение не прибегать к услугам аутсорсинговых ИТ компаний. Весь спектр ИТ услуг выполняется только штатными ИТ сотрудниками.</p><p>Современная дистрибуционная компания не может обойтись без таких систем как:</p><p>- Система управления данными (ERP);</p><p>Позволяет в режиме реального времени проводить анализ деятельности предприятия в любых разрезах, изучать статистические показатели и выявлять долговременные зависимости между ними.</p><p>- Система электронного обмена данными (EDI);</p><p>Компания Grand Distribution в полной мере использует системы электронного обмена данными. Эта технология гарантирует как правильность конвертации данных, так и саму доставку сообщений адресатам и последовательность доставки сообщений. При этом обеспечиваются достоверность и конфиденциальность передаваемой информации. В нашей компании EDI полностью автоматизированное взаимодействие между информационными системами партнеров, исключая участие человека.</p>",
-          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
+          "text": "<p>В нынешнее время все компании – от малого до крупного размера нуждаются в информационных технологиях для того, чтобы выдерживать конкуренцию в условиях повсеместного использования высокотехнологичных решений.</p><p>Использование информационных технологий в дистрибуции значительно сокращает и ускоряет путь перемещения товара от производителя к потребителю. При этом большое значение в минимизации движения товара имеет быстрая передача информации как внутри предприятия, так и во внешней среде. Зарубежный опыт показывает, что те фирмы, которые делают ставку на использование функционирующих на рынке стандартов EDI, имеют шансы эффективного функционирования в будущем.</p><p>Компания ДИСТРИБЬЮТОР идет нога в ногу с информационно техническим прогрессом и одной из первых на рынке внедряет самые передовые ИТ технологии. Мы вкладываем значительные средства в развитие корпоративного ИТ отдела, чтобы облегчить работу наших сотрудников, ускорить и упростить сбор заявок агентами, повысить качество отбора товара на складе и увеличить скорость доставки товара.</p><p>Grand Distribution ценит важность и ценность информации в наше время. Чтобы не разочаровать производителей и партнеров с которыми мы работаем было принято решение не прибегать к услугам аутсорсинговых ИТ компаний. Весь спектр ИТ услуг выполняется только штатными ИТ сотрудниками.</p><p>Современная дистрибуционная компания не может обойтись без таких систем как:</p><p>- Система управления данными (ERP);</p><p>Позволяет в режиме реального времени проводить анализ деятельности предприятия в любых разрезах, изучать статистические показатели и выявлять долговременные зависимости между ними.</p><p>- Система электронного обмена данными (EDI);</p><p>Компания Grand Distribution в полной мере использует системы электронного обмена данными. Эта технология гарантирует как правильность конвертации данных, так и саму доставку сообщений адресатам и последовательность доставки сообщений. При этом обеспечиваются достоверность и конфиденциальность передаваемой информации. В нашей компании EDI полностью автоматизированное взаимодействие между информационными системами партнеров, исключая участие человека.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a>  <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">LEARN MORE</a> "
+        }
+      ]
+    },
+    "О компании.html": {
+      "settings": {
+        "title": "Web Page Builder Title",
+        "meta_descr": "Web Page Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#59605a"
+            },
+            ".mbr-navbar__section": {
+              "background": "#59605a"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-f",
+          "_params": {
+            "color": "#59605a",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ДИСТРИБЬЮТОР</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"О компании.html\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#ffffff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center"
+            },
+            ".mbr-article P": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-g",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#eb6b56",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showMeta": false,
+            "darkBackground": false
+          },
+          "title": "О КОМПАНИИ",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p>ДИСТРИБЬЮТОР - это крупный национальный холдинг, занимающий одно из ведущих мест на рынке дистрибьюции FMCG Украины.</p><p>ДИСТРИБЬЮТОР объединяет в своей структуре самостоятельные дистрибьюторские предприятия, покрывающие большую часть территории Украины. Все предприятия, входящие в структуру ДИСТРИБЬЮТОР, являются лидерами дистрибьюционного бизнеса в своих регионах.</p><p>Основной целью ДИСТРИБЬЮТОР является организация деятельности предприятий, входящих в ее структуру, направленная на управление и увеличение эффективности системы продаж, построение и модернизацию логистических процессов, обеспечение финансовыми ресурсами, внедрение инноваций в сфере информационных технологий, снижение рисков деятельности, а также создание и поддержание эффективной системы управления персоналом.</p><p>Мы работаем с известными брендами – лидерами мирового рынка товаров FMCG по направлениям: продукты питания, бытовая химия, средства личной гигиены, косметика, товары для дома.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">SEE ALL TEMPLATES</a>"
+        }
+      ]
+    },
+    "Преимущества.html": {
+      "settings": {
+        "title": "Web Builder Title",
+        "meta_descr": "Web Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#59605a"
+            },
+            ".mbr-navbar__section": {
+              "background": "#59605a"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-h",
+          "_params": {
+            "color": "#59605a",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ДИСТРИБЬЮТОР</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"О компании.html\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#fff"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "font-size": "15px"
+            },
+            ".mbr-article H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-i",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": "3",
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#f97352",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "ПРЕИМУЩЕСТВА",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<h3><b>Работа с персоналом</b></h3><p>Одной, и, безусловно, самой главной ценностью нашей Компании являются наши сотрудники. Именно они являются основой нашего бизнеса. Только постоянный рост эффективности работы персонала обеспечивает развитие и процветание нашей Компании.&nbsp;</p><p><a href=\"персонал.html\" class=\"text-primary\">ПОДРОБНЕЕ</a></p><h3>Логистика</h3><p>Как крупнейший дистрибьютор на рынке Украины имеет все необходимые логистические мощности и ресурсы для удовлетворения потребностей наших партнеров в качественной дистрибьюции товаров.&nbsp;</p><p><a href=\"логистика.html\">ПОДРОБНЕЕ</a></p><p><br></p><h3>ИТ</h3><p>В нынешнее время все компании – от малого до крупного размера нуждаются в информационных технологиях для того, чтобы выдерживать конкуренцию в условиях повсеместного использования высокотехнологичных решений.&nbsp;</p><p><a href=\"IT.html\">ПОДРОБНЕЕ</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        }
+      ]
+    },
+    "Контакты.html": {
+      "settings": {
+        "title": "Website Generator Title",
+        "meta_descr": "Website Generator Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#59605a"
+            },
+            ".mbr-navbar__section": {
+              "background": "#59605a"
+            },
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-j",
+          "_params": {
+            "color": "#59605a",
+            "hamburgerColor": "#ffffff",
+            "transparent": false,
+            "sticky": true,
+            "collapsed": false,
+            "logo": true,
+            "showBrand": true,
+            "showButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "images/logo.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"https://mobirise.com\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">ДИСТРИБЬЮТОР</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ГЛАВНАЯ</a></li>  <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"О компании.html\">О КОМПАНИИ</a></li>   <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ПРЕИМУЩЕСТВА</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">ABOUT</a></li><li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\">КОНТАКТЫ</a></li>",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-link\" data-app-selector=\".mbr-navbar__items a\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "left",
+              "color": "#252525"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "color": "#252525"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content5",
+          "_anchor": "content5-k",
+          "_params": {
+            "showCaption": "noCaption",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showTitle": true,
+            "showText": true,
+            "showButton": false,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "images/bg3.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#28324e",
+            "showMeta": false,
+            "darkBackground": true
+          },
+          "title": "КОНТАКТЫ",
+          "meta": "By John Smith posted July 30, 2015",
+          "text": "<p><br></p><p><b>ДИСТРИБЬЮТОР</b></p><p>Украина, 49130, г. Киев, ул. Березинская, 80</p><p>т. (0562) 31-24-14, 790-40-41</p><p>т/ф. 31-24-00</p><p>По общим вопросам:</p><p>email: office@grands.ua</p><p>Отдел продаж:</p><p>email: office@group.com.ua</p><p>Отдел персонала</p><p>email: personal@.com.ua</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
         }
       ]
     }
